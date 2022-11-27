@@ -19,7 +19,7 @@ summary: explore
 
 🗃️ [Public Desk](bit.ly/publicdesk) / a public notebook and digital garden using Scrintal
 
-🍿 [Media Database](https://reneedefour.notion.site/d47634fdee4648a283f11c491bda9e29?v=7f16fc6caff24a8199a153cc029f3dcc) / a collection of films, series and books for 2022.
+🍿 [Media Database](https://reneedefour.notion.site/d47634fdee4648a283f11c491bda9e29?v=7f16fc6caff24a8199a153cc029f3dcc) / a collection of completed films, series and books for 2022.
 
 🛠 [Workspace Wednesday](https://www.youtube.com/playlist?list=PLj7t5ZXi1xJwAdjQwQWe3E0ObCEASev2w) / a weekly video exploration of the digital workspace
 
