@@ -42,7 +42,7 @@ cover:
 ## Years
 
 ### 2022
-1. A Little Life / Hanya Yanagihara
+1. [A Little Life](/posts/13/a-little-life/) / Hanya Yanagihara
 2. Deep Work / Cal Newport
 3. The House in the Cerulean Sea / T.J Klune ⭐️
 4. Outgrowing God / Richard Dawkins
