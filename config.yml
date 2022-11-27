@@ -6,7 +6,7 @@ theme: PaperMod
 params:
   homeInfoParams:
     Title: "Hi there, welcome to my public workspace."
-    Content: This is a space exploring my interests. You'll find writing, musings and workflows spanning digital workspaces, organization, philosophy, creativity and life in general. Have a look around - see all writing/musings in the [archive](/archive) or browse by your own interest via [categories](/categories) or [tags](/tags).
+    Content: This is a space exploring my interests. You'll find writing, musings and workflows spanning digital workspaces, organization, philosophy, creativity and life in general. Have a look around - see all posts in the [archive](/archive) or browse by your own interest via [categories](/categories) or [tags](/tags).
   socialIcons:
       - name: twitter 
         url: "https://twitter.com/reneedefour"
