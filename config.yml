@@ -12,6 +12,8 @@ params:
         url: "https://twitter.com/reneedefour"
       - name: youtube 
         url: "https://youtube.com/@ReneeDeFour"
+      - name: email
+        url: "mailto: hello@reneedefour.com"
 
   cover:
     linkFullImages: false
