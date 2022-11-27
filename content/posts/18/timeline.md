@@ -1,6 +1,6 @@
 ---
 title: "Timeline"
-date: 2022-11-26T20:14:51-04:00
+date: 2022-11-14T20:14:51-04:00
 draft: false
 tags: ["life"]
 categories: ["personal"]
