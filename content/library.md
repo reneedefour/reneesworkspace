@@ -44,12 +44,12 @@ cover:
 ### 2022
 1. [A Little Life](/posts/13/a-little-life/) / Hanya Yanagihara
 2. Deep Work / Cal Newport
-3. The House in the Cerulean Sea / T.J Klune ⭐️
+3. [The House in the Cerulean Sea]() / T.J Klune ⭐️
 4. Outgrowing God / Richard Dawkins
 5. They Both Die at the End / Adam Silvera
 6. The Song of Achilles / Madeline Miller
 7. Gang Fit: Freedom & Strength / Guru Anaerobic ⭐️
-8. Normal People / Sally Rooney
+8. [Normal People](/posts/16/normal-people/) / Sally Rooney
 9. How to Take Smart Notes / Dr. Sönke Ahrens
 
 ### 2021
