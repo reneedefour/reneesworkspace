@@ -1,9 +1,11 @@
 ---
 title: "🔎 Explore"
-description: "A collection of intriguing links"
+description: "A collection of my related links"
 url: "/explore/"
 summary: explore
 ---
+
+## Internal
 
 ⏳ [Timeline](/posts/timeline) / what I've been up to
 
@@ -11,9 +13,13 @@ summary: explore
 
 📖 [Library](/library) / books that I'm currently reading and archive of books read over the years
 
+## External
+
 📸 [Photos](https://reneedefour.notion.site/44f05f3ac3a844118320a7191fde0419?v=ff54c7fb72af4acc89cdef52518ddaf4) / a gallery of photos that I've taken
 
 🗃️ [Public Desk](bit.ly/publicdesk) / a public notebook and digital garden using Scrintal
+
+🍿 [Media Database](https://reneedefour.notion.site/d47634fdee4648a283f11c491bda9e29?v=7f16fc6caff24a8199a153cc029f3dcc) / a collection of films, series and books for 2022.
 
 🛠 [Workspace Wednesday](https://www.youtube.com/playlist?list=PLj7t5ZXi1xJwAdjQwQWe3E0ObCEASev2w) / a weekly video exploration of the digital workspace
 
