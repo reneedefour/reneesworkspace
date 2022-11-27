@@ -1,0 +1,50 @@
+baseURL: "https://www.reneesworkspace.com/"
+languageCode: en-us
+title: Renee's Workspace
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Hi there, welcome to my public workspace."
+    Content: This is a space for me to explore my interests. You'll find writing, musings and workflows spanning digital workspaces, systems, organization, philosophy, creativity and life in general.
+  socialIcons:
+      - name: twitter 
+        url: "https://twitter.com/reneedefour"
+      - name: youtube 
+        url: "https://youtube.com/@ReneeDeFour"
+
+  cover:
+    linkFullImages: false
+
+  ShowBreadCrumbs: false 
+
+  ShowReadingTime: false
+
+  ShowShareButtons: false
+
+  ShowToc: true
+
+  ShowPostNavLinks: false
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archive
+      name: Archive
+      url: /archive/
+      weight: 30
+    - identifier: library
+      name: Library
+      url: /library/
+      weight: 40
+    - identifier: explore
+      name: Explore
+      url: /explore/
+      weight: 50
