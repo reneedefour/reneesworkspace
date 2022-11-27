@@ -38,6 +38,7 @@ cover:
 ## Key
 
 ⭐️ - favorite, will re-read
+
 Underlined book titles link to a brief book summary and notes
 
 ## Years

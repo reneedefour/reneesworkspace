@@ -24,7 +24,7 @@ Using your own words, write brief and selective notes about the content that mig
 
 These notes should be kept with bibliographic details in the reference system.
 
-**Possible reference system 1**
+### Possible reference system 1
 
 - A designated literature notes [notebook](https://www.amazon.com/Zequenz-Classic-Journal-Writing-Notebook/dp/B01MCRLLPD/ref=sr_1_7?keywords=ZEQUENZ&qid=1668459391&sr=8-7) 
 - For physical books
@@ -33,17 +33,17 @@ These notes should be kept with bibliographic details in the reference system.
 
 "Different independent studies indicate that writing [literature notes] by hand facilitates understanding."
 
-**Possible reference system 2**
+### Possible reference system 2
 
 - Consider adding them directly onto cards on my Scrintal desk — how will  I easily differentiate between literature notes and permanent notes?  I don’t want to be doing unnecessary tagging or card color coding. Doing this the analog way will work for now.
 - Sample reference with linked literature notes: Bakewell, 2017 
 - Permanent notes can have number identifiers showing their sequence while literature notes are not numbered.
 
-**Possible reference system 3**
+### Possible reference system 3
 
 - To be able to differentiate between the bibliographical slip-box and the main slip-box, I can consider using another application like Obsidian for literature notes only and Scrintal for permanent notes
 
-**Note sources**
+### Note sources
 1. Books
 2. Physical
 3. E-book
@@ -94,6 +94,6 @@ The index should only contain the entry point notes.
 
 ## Notes processing routine
 
-[] Review fleeting notes and literature notes
-[] Make permanent notes
-[] Link permanent notes to Index
+- Review fleeting notes and literature notes
+- Make permanent notes
+- Link permanent notes to Index
