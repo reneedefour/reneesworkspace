@@ -5,7 +5,7 @@ draft: false
 tags: ["digital garden", "personal knowledge management", "tools for thought"]
 categories: ["digital workspace"]
 cover:
-    image: posts/14/14-digitalgarden.png
+    image: posts/14/exicafe.png
 ---
 
 Digital gardening options are becoming more prominent. Maybe that’s because I recently discovered this whole ecosystem but just yesterday (07/11/22), I came across a [tool](https://flowershow.app/blog/alpha-release) on Twitter that allows you to self-publish your markdown digital garden. That’s pretty cool.
@@ -18,6 +18,8 @@ We all have private notes. Not everything needs to be shared. The notes that you
 
 ### My Workspace Wednesday Videos on Digital Gardening
 
+### Notion
 {{< youtube VugoTdOZomY >}}
 
+### Scrintal
 {{< youtube KUxA7puHA0g >}}
