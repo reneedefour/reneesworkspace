@@ -8,12 +8,13 @@ params:
     Title: "Hi there, welcome to my public workspace."
     Content: This is a space exploring my interests. A collection of glimpses into a temporary existence. You'll find writing, musings and workflows spanning digital workspaces, organization, philosophy, creativity and life in general. Have a look around - see all posts in the [archive](/archive) or browse by your own interest via [categories](/categories) or [tags](/tags). See additional external links on the [explore](/explore) page.
   socialIcons:
-      - name: twitter 
-        url: "https://twitter.com/reneedefour"
-      - name: youtube 
-        url: "https://youtube.com/@ReneeDeFour"
       - name: email
         url: "mailto: hello@reneedefour.com"
+      - name: youtube 
+        url: "https://youtube.com/@ReneeDeFour"
+      - name: twitter 
+        url: "https://twitter.com/reneedefour"
+      
 
   cover:
     linkFullImages: false
