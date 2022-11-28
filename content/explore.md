@@ -26,3 +26,5 @@ summary: explore
 🧑🏾‍💻 [Digital Products](http://reneedefour.gumroad.com) / templates for digital clarity 
 
 📚 [Cafe of Musings](https://www.instagram.com/cafeofmusings/) / an online local philosophy bookshop
+
+https://www.notion.so/reneedefour/d47634fdee4648a283f11c491bda9e29?v=01064295c31d484dadb340e362b8c7fb
