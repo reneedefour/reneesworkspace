@@ -7,7 +7,7 @@ summary: explore
 
 ## Internal
 
-⏳ [Timeline](/posts/18/timeline) / what I've been up to
+⏳ [Timeline](https://www.reneesworkspace.com/posts/18/timeline/) / what I've been up to
 
 ✍🏾 [Writing](/archive) / a combination of short-form musings and longer-form articles
 
