@@ -7,7 +7,7 @@ summary: explore
 
 ## Internal
 
-⏳ [Timeline](/posts/timeline) / what I've been up to
+⏳ [Timeline](/posts/18/timeline) / what I've been up to
 
 ✍🏾 [Writing](/archive) / a combination of short-form musings and longer-form articles
 
@@ -17,7 +17,7 @@ summary: explore
 
 📸 [Photos](https://reneedefour.notion.site/44f05f3ac3a844118320a7191fde0419?v=ff54c7fb72af4acc89cdef52518ddaf4) / a gallery of photos that I've taken
 
-🗃️ [Public Desk](bit.ly/publicdesk) / a public notebook and digital garden using Scrintal
+🗃️ [Public Desk](https://bit.ly/publicdesk) / a public notebook and digital garden using Scrintal
 
 🍿 [Media Database](https://www.notion.so/reneedefour/d47634fdee4648a283f11c491bda9e29?v=01064295c31d484dadb340e362b8c7fb) / a collection of completed films, series and books for 2022.
 
