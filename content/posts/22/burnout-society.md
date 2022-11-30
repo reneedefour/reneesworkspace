@@ -1,5 +1,5 @@
 ---
-title: "Notes on Chapters 1-4 of The Burnout Society by Byung-Chul Han"
+title: "Notes on Chapters 1 of The Burnout Society by Byung-Chul Han"
 date: 2022-11-29T20:14:51-04:00
 draft: false
 tags: ["book notes"]
