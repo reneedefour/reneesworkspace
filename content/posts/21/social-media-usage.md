@@ -36,6 +36,10 @@ So, what now? Do I delete my social media presence completely and become an off-
 
 And so, this is where I am currently. I’ve deleted all mobile social media apps and starting today, I’m limiting the time that I have daily to use these apps. When I do log in during that social media window, I plan to use the platforms as tools with the intention of actively interacting by commenting on tweets, messaging persons with shared interests and selectively watching videos that are aligned with my current curiousity. It’s the beginning of the journey but I already feel like I’m on the right track to a more intentional life.
 
+---
+
+Have similar thoughts that you’d like to share or want to start a discussion? Feel free to [get in touch](mailto: briannedefour@gmail.com). 
+
 **References**
 
 [^1]: [https://yctct.com/roadmap-reclaiming](https://yctct.com/roadmap-reclaiming)
@@ -46,6 +50,3 @@ And so, this is where I am currently. I’ve deleted all mobile social media app
 
 [^4]: Open source RSS reader for Apple products: [https://netnewswire.com/](https://netnewswire.com/)]
 
-Have similar thoughts that you’d like to share or want to start a discussion? Feel free to [get in touch](mailto: briannedefour@gmail.com). 
-
----
