@@ -1,7 +1,7 @@
 ---
 title: "Notes on Chapter 1 of The Burnout Society by Byung-Chul Han"
 date: 2022-11-29T20:14:51-04:00
-draft: false
+draft: true
 tags: ["book notes"]
 categories: ["library"]
 cover:

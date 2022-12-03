@@ -46,7 +46,6 @@ And so, this is where I am currently. I’ve deleted all mobile social media app
 
 [^3]: [http://flower.codes/](http://flower.codes/)
 
-[^4]: Open source RSS reader for Apple products: [https://netnewswire.com/](https://netnewswire.com/)
-]
+[^4]: Open source RSS reader for Apple products: [https://netnewswire.com/](https://netnewswire.com/)]
 
 Have similar thoughts that you’d like to share or want to start a discussion? Feel free to [get in touch](mailto: briannedefour@gmail.com). 
