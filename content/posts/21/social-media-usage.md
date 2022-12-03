@@ -21,8 +21,6 @@ I’m reminded of a [talk]([https://www.youtube.com/watch?v=Eb_UJrefejU](https:/
 
 ![Transcripted Terence McKenna Talk](/posts/21/terence-mckenna.jpg)
 
-![Journal cover](/posts/21/journal.jpg)
-
 In today's mainstream society, when we are inundated with a plethora of media and opinions vying for our attention, living as many moments as one can manage with intention may seem like an impossible task. I know one thing for certain - I can’t continue siphoning my attention towards the addictive aspects of social media. 
 
 So, what now? Do I delete my social media presence completely and become an off-the-grid nomad? Well, not just yet. I needed to assess my usage of each platform. Then, I would compare the benefits and drawbacks of each to determine if I should continue using them all or if I should delete the account permanently. The last step was to determine some general usage principles and to augment how I would interact with the platforms that I still wanted to use. 
