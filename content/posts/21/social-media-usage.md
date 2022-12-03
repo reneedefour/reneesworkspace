@@ -38,7 +38,7 @@ And so, this is where I am currently. I’ve deleted all mobile social media app
 
 ---
 
-Have similar thoughts that you’d like to share or want to start a discussion? Feel free to [get in touch](mailto:briannedefour@gmail.com). 
+Have similar thoughts that you’d like to share or want to start a discussion? Feel free to [get in touch](mailto:briannedefour@gmail.com) via email. 
 
 [^1]: [https://yctct.com/roadmap-reclaiming](https://yctct.com/roadmap-reclaiming)
 
