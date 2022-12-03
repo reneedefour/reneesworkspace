@@ -1,7 +1,7 @@
 ---
 title: "My current approach to social media"
 date: 2022-11-27T20:14:51-04:00
-draft: true
+draft: false
 tags: ["life", "musings"]
 categories: ["personal","digital workspace"]
 ---
