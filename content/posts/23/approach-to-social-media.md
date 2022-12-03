@@ -4,6 +4,8 @@ date: 2022-12-02T20:14:51-04:00
 draft: true
 tags: ["life", "musings"]
 categories: ["personal","digital workspace"]
+cover:
+    image: posts/23/table-cover.png
 ---
 
 I've been doing a lot of thinking about my relationship with social media. Over the years, I’ve struggled between enjoying it’s benefits while also watching it consume valuable time that I will never get back. I would take social media breaks, the most recent being earlier this year, in the hopes that I would be able to have more control over my time while still being active on the platforms. The problem was that I always returned and got sucked right back into the same cycle of consumption over creation.  
