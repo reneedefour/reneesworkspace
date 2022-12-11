@@ -22,11 +22,10 @@ cover:
 
 ![Next up list](/img/nextuplist.png)
 
-1. The Burnout Society / Byung-Chul Han
-2. The Paliative Society / Byung-Chul Han
-3. Capitalism and the Death Drive / Byung-Chul Han
-4. The Scent of Time / Byung-Chul Han
-5. Kindfulness / Ajahn Brahm
+1. The Paliative Society / Byung-Chul Han
+2. Capitalism and the Death Drive / Byung-Chul Han
+3. The Scent of Time / Byung-Chul Han
+4. Kindfulness / Ajahn Brahm
 
 ## Next-next up
 1. Under the Whisphering Door / T.J Klune
