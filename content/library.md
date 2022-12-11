@@ -47,7 +47,7 @@ Underlined book titles link to a brief book summary and notes
 Reading progress: 10/24
 1. [A Little Life](/posts/13/a-little-life/) / Hanya Yanagihara
 2. Deep Work / Cal Newport
-3. [The House in the Cerulean Sea]() / T.J Klune ⭐️
+3. [The House in the Cerulean Sea](/posts/15/the-house-in-the-cerulean-sea/) / T.J Klune ⭐️
 4. Outgrowing God / Richard Dawkins
 5. They Both Die at the End / Adam Silvera
 6. The Song of Achilles / Madeline Miller
