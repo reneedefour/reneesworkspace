@@ -7,7 +7,7 @@ cover:
 ---
 
 ## Currently reading
-*Updated: 26 Nov 2022*
+*Updated: 10 Dec 2022*
 
 - The Burnout Society / Byung-Chul Han, Erik Butler
 - The Four Horsemen: The Conversation That Sparked an Atheist Revolution / Christopher Hitchens, Richard Dawkins, Sam Harris, Daniel Dennett
@@ -44,6 +44,7 @@ Underlined book titles link to a brief book summary and notes
 ## Years
 
 ### 2022
+Reading progress: 10/24
 1. [A Little Life](/posts/13/a-little-life/) / Hanya Yanagihara
 2. Deep Work / Cal Newport
 3. [The House in the Cerulean Sea]() / T.J Klune ⭐️
@@ -53,6 +54,7 @@ Underlined book titles link to a brief book summary and notes
 7. Gang Fit: Freedom & Strength / Guru Anaerobic ⭐️
 8. [Normal People](/posts/16/normal-people/) / Sally Rooney
 9. How to Take Smart Notes / Dr. Sönke Ahrens
+10. Open / Rachel Krantz
 
 ### 2021
 Apparently I read nothing in 2021?! Very concerning…
