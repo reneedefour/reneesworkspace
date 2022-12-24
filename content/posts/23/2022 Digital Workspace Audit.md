@@ -132,6 +132,6 @@ Notion is hands down the best home for team-based projects that I've found. Othe
 10. Sunsama
 11. Zotero
 
-## Conclusions
+## Conclusion
 
 I think it's clear to me now that my digital home base application will be Tana, I'll continue to use Notion for personal finances, work, habit tracking and shared projects while incorporating an analog journal once again for the new year.
