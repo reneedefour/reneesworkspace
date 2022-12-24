@@ -28,9 +28,9 @@ My current writing hub is in Notion for the following reasons:
 - Mobile application with syncing for on-the-go writing 
 - Ability to create a kanban board to visualise the writing process
 
-That being said, I outlined and am currently writing this post in Tana 😅. This is because the ideal writing hub for me is the same application where I store my ideas as it reduces the friction of actually beginning to write. I like the writing experience in Tana but every paragraph being a bullet/node is taking some getting used to. Although, I do like collapsing nodes to easily see an overview of what I've already written. There's no markdown but I don't mind copying and pasting my writing into Visual Studio Code and formatting the headings, links and photos there so that it can be posted to my website. In this way, Tana makes me focus completely on the writing. The mobile Chrome app for Tana is not for long-form writing just yet but that isn't a problem for me currently as I do all of my writing from my laptop. Based on that assessment, it looks like I'm also moving my writing hub to Tana.
-
 ![Notion writing hub](/posts/23/notion-writing-hub.png)
+
+That being said, I outlined and am currently writing this post in Tana 😅. This is because the ideal writing hub for me is the same application where I store my ideas as it reduces the friction of actually beginning to write. I like the writing experience in Tana but every paragraph being a bullet/node is taking some getting used to. Although, I do like collapsing nodes to easily see an overview of what I've already written. There's no markdown but I don't mind copying and pasting my writing into Visual Studio Code and formatting the headings, links and photos there so that it can be posted to my website. In this way, Tana makes me focus completely on the writing. The mobile Chrome app for Tana is not for long-form writing just yet but that isn't a problem for me currently as I do all of my writing from my laptop. Based on that assessment, it looks like I'm also moving my writing hub to Tana.
 
 ![Tana blog post](/posts/23/tana-this-blog.png)
 
@@ -133,6 +133,6 @@ Notion is hands down the best home for team-based projects that I've found. Othe
 10. Sunsama
 11. Zotero
 
-## Conclusion
+## Decision
 
 I think it's clear to me now that my digital home base application will be Tana, I'll continue to use Notion for personal finances, work, habit tracking and shared projects while incorporating an analog journal once again for the new year.
