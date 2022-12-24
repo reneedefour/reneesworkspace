@@ -2,7 +2,7 @@
 title: "2022 Digital Workspace Audit"
 date: 2022-12-24
 draft: false
-tags: ["notion", "tana", "organization]
+tags: ["notion","tana", "organization"]
 categories: ["digital workspace"]
 cover:
     image: posts/23/workspace-summary.png
