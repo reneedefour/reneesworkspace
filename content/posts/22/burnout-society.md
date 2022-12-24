@@ -1,7 +1,7 @@
 ---
 title: "The Burnout Society by Byung-Chul Han"
 date: 2022-12-04
-draft: true
+draft: false
 description: "Notes on chapters 1-4."
 tags: ["book notes"]
 categories: ["library"]
