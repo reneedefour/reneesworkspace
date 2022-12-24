@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "046ef9efd66a9c35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "24/A test post from obsidian.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "23/2022 digital workspace audit.md",
+                "file": "24/A test post from obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "23/2022 digital workspace audit.md",
+                "file": "24/A test post from obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "23/2022 digital workspace audit.md"
+                "file": "24/A test post from obsidian.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0de409dfb3106888",
+  "active": "046ef9efd66a9c35",
   "lastOpenFiles": [
+    "23/2022 digital workspace audit.md",
     "22/burnout-society.md",
     "23/A test post from Obsidian.md",
     "01/12-lessons.md"
