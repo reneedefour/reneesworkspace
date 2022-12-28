@@ -7,7 +7,7 @@ cover:
 ---
 
 ## Currently reading
-*Updated: 10 Dec 2022*
+*Updated: 27 Dec 2022*
 
 - The Burnout Society / Byung-Chul Han, Erik Butler
 - The Four Horsemen: The Conversation That Sparked an Atheist Revolution / Christopher Hitchens, Richard Dawkins, Sam Harris, Daniel Dennett
@@ -54,6 +54,7 @@ Reading progress: 10/24
 8. [Normal People](/posts/16/normal-people/) / Sally Rooney
 9. How to Take Smart Notes / Dr. Sönke Ahrens
 10. Open / Rachel Krantz
+11. Digital Minimalism / Cal Newport ⭐️
 
 ### 2021
 Apparently I read nothing in 2021?! Very concerning…

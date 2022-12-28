@@ -15,13 +15,15 @@ summary: explore
 
 ## External
 
-📸 [Photos](https://reneedefour.notion.site/44f05f3ac3a844118320a7191fde0419?v=ff54c7fb72af4acc89cdef52518ddaf4) / a gallery of photos that I've taken
+🛠 [Workspace Wednesday](https://www.youtube.com/playlist?list=PLj7t5ZXi1xJwAdjQwQWe3E0ObCEASev2w) / a weekly video exploration of the digital workspace
 
-🗃️ [Public Desk](https://bit.ly/publicdesk) / a public notebook and digital garden using Scrintal
+📩 [Newsletter](https://reneedefour.substack.com/) / a weekly reflection 
 
 🍿 [Media Database](https://www.notion.so/reneedefour/d47634fdee4648a283f11c491bda9e29?v=01064295c31d484dadb340e362b8c7fb) / a collection of completed films, series and books for 2022.
 
-🛠 [Workspace Wednesday](https://www.youtube.com/playlist?list=PLj7t5ZXi1xJwAdjQwQWe3E0ObCEASev2w) / a weekly video exploration of the digital workspace
+📸 [Photos](https://reneedefour.notion.site/44f05f3ac3a844118320a7191fde0419?v=ff54c7fb72af4acc89cdef52518ddaf4) / a gallery of photos that I've taken
+
+🗃️ [Public Desk](https://bit.ly/publicdesk) / a public notebook and digital garden using Scrintal
 
 🧑🏾‍💻 [Digital Products](http://reneedefour.gumroad.com) / templates for digital clarity 
 
