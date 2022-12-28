@@ -43,7 +43,7 @@ Underlined book titles link to a brief book summary and notes
 ## Years
 
 ### 2022
-Reading progress: 10/24
+Reading progress: 11/24
 1. [A Little Life](/posts/13/a-little-life/) / Hanya Yanagihara
 2. Deep Work / Cal Newport
 3. [The House in the Cerulean Sea](/posts/15/the-house-in-the-cerulean-sea/) / T.J Klune ⭐️
