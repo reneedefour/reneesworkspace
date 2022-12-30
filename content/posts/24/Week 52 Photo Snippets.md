@@ -5,7 +5,7 @@ draft: false
 tags: ["life","stationery", "food"]
 categories: ["personal"]
 cover:
-    image: posts/24/20221222_220740.jpg
+    image: posts/24/notebooks.jpg
 ---
 
 While looking through my camera roll today, I had the idea to share some photos from the previous week (December 19th-25th). Here they are:
