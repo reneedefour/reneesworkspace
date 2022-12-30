@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eec4453a122a8487",
+            "id": "0151b6a023c037c3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "25/A Horrid Tale of Teeth, Dentists & Gingivitis.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "25/A Horrid Tale of Teeth, Dentists & Gingivitis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "25/A Horrid Tale of Teeth, Dentists & Gingivitis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "25/A Horrid Tale of Teeth, Dentists & Gingivitis.md"
+              }
             }
           }
         ]
@@ -138,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eec4453a122a8487",
+  "active": "0151b6a023c037c3",
   "lastOpenFiles": [
+    "24/Week 52 Photo Snippets.md",
+    "25/A Horrid Tale of Teeth, Dentists & Gingivitis.md",
     "24/Untitled.md",
     "20221222_220740.jpg.md",
     "20221220_174004.jpg.md"

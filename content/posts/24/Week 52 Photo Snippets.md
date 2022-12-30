@@ -54,3 +54,5 @@ I wouldn't really consider these as "wildlife" but it's close enough. This is a 
 [^1]: A [blog post](https://thepaperkind.com/2020/08/15/commonplace-book/) from Emma at The Paper Kind about commonplace books.
 
 [^2]: Jared from The Classical Mind shares [how he uses a commonplace book](https://www.youtube.com/watch?v=CcBy_b_43c0&t=664s).
+
+{{< chat cactus-comments >}}
