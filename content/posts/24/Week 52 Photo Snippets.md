@@ -14,7 +14,7 @@ While looking through my camera roll today, I had the idea to share some photos 
 
 **New notebooks [22.12.22]**
 
-![New notebooks](/posts/24/notebooks.jpg)
+![New notebooks](/posts/24/zequenz.jpeg)
 
 Why do I love physical notebooks this much? Also, when will I actually fill an entire notebook cover to cover with writing, art or something more worthwhile than blank pages? Nevertheless, I'm excited to try these. They are made in Thailand by the company Zequenz. This purchase was largely influenced by Monica from [creationsbymonya](https://www.instagram.com/creationsbymonya/). The black is B6 and the red is A6. I want to use 1 as a commonplace book [^1] [^2] and another as my 2023 personal journal. I've also added these notebooks to my inventory in Tana: 
 
